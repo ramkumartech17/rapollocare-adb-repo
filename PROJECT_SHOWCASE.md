@@ -1,4 +1,4 @@
-# RapolloCare Healthcare Lakehouse (Azure Databricks)
+# RapolloCare Hospital (ADF + Azure Databricks + Lakehouse)
 
 An end-to-end **ELT pipeline on Azure Databricks** that consolidates hospital, doctor, patient, insurance and lab-test data from multiple source systems into a governed **Medallion Lakehouse (Landing -> Bronze -> Silver -> Gold)** on **Unity Catalog** and **Delta Lake**, producing analytics-ready Gold tables for patient, hospital-operations and clinical-quality reporting.
 
